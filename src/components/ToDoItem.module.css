@@ -1,0 +1,12 @@
+.todoContainer{
+    background-color: #ff0000;
+}
+.todorow {
+    padding: 40px 0;
+    background-color: rgb(255, 255, 255);
+    transition: background-color 0.3s ease; 
+}
+
+.todorow:hover {
+    background-color: #8dcef7;
+}

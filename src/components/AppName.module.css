@@ -1,0 +1,12 @@
+.todoheading {
+    font-weight: 800;
+    font-size: 60px;
+    margin: 30px;
+    margin-bottom: 20px;
+    background: linear-gradient(105deg, #1e12ff, #9b9b9b);
+    -webkit-background-clip: text; 
+    -webkit-text-fill-color: transparent; 
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
